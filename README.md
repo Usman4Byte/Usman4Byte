@@ -1,7 +1,7 @@
 ![logo](https://github.com/Usman4Byte/Usman4Byte/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A passionate frontend developer and C++ (GUI) coder from Rawalpindi, Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer and C++ (GUI) coder from Rawalpindi, Pakistan</h3>
 
 <img align="right" width="400" src="https://github.com/Usman4Byte/Usman4Byte/blob/main/coding.gif"/>
 
