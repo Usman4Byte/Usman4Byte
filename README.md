@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
-<h3 align="center">BS Computer Science | Web Developer | Java | C/C++ | Python</h3>
+<h3 align="center">BS Computer Science | Web Developer | WordPress Developer | C/C++ </h3>
 
 <img align="right" width="400" src="https://github.com/Usman4Byte/Usman4Byte/blob/main/coding.gif"/>
 
