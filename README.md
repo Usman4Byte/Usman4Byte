@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman4byte&show_icons=true&locale=en&layout=compact" alt="usman4byte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usman4byte&" alt="usman4byte" /></p>
-
