@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman4byte&label=Profile%20views&color=0e75b6&style=flat" alt="usman4byte" /> </p>
 
-- 🔭 I’m currently working on **Web Development & C/C++ programming**
+- 🔭 I’m currently working on **web development & programming**
 
-- 🌱 I’m currently learning **GUI application development**
+- 🌱 I’m currently learning **web application development**
 
-- 💬 Ask me about **programming tricks and techniques**
+- 💬 Ask me about **development tricks and techniques**
 
 - 📫 How to reach me **usmanchaudhary112579@gmail.com**
 
