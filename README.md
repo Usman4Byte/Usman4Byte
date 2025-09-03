@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
-<h3 align="center">BS Computer Science | Web Developer | WordPress Developer | C/C++ </h3>
+<h3 align="center">BS Computer Science | MERN Stack Developer | WordPress Developer | C/C++ | Python</h3>
 
 <img align="right" width="400" src="https://github.com/Usman4Byte/Usman4Byte/blob/main/coding.gif"/>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m_usman_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_usman_101" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/muhammad-usman-075b89293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-usman-075b89293" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100041068471951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100041068471951" height="30" width="40" /></a>
 <a href="https://instagram.com/usman_dynasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman_dynasty" height="30" width="40" /></a>
