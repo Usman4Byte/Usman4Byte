@@ -1,4 +1,4 @@
-![logo](https://github.com/Usman4Byte/Usman4Byte/blob/main/banner.png)
+![logo](https://github.com/Usman4Byte/Usman4Byte/blob/main/background.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 
